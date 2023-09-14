@@ -1,5 +1,5 @@
 ﻿// Author: Wyatt Murray
-// Collaborators: Zebulon
+// Collaborators: Zebulun
 // Date: 9/7/2023
 // Description:  This document serves as a brief but extensive reference file for programmers,
 //     encompassing a wide range of commands, syntax, and concepts in both C# and Unity.
